@@ -1,0 +1,48 @@
+body
+{
+	width: 400px;
+}
+
+.main
+{
+	width: 280px;
+	height: 380px;
+	background-color: yellow;
+	border: 2px solid black;
+	margin: 10px;
+}
+
+.messages
+{
+	overflow: hidden;
+	word-wrap: break-word;
+	height: 260px;
+	overflow-y: scroll;
+	margin-bottom: 10px;
+	padding: 10px;
+}
+
+.user_name_login
+{
+	margin: 10px;
+}
+
+.text
+{
+	width: 260px;
+	height: 40px;
+	margin-left: 10px;
+}
+
+.button_send
+{
+	margin: 20px;
+	margin-bottom: 0;
+	margin-top: 10px;
+	width: 240px;
+}
+
+.button_reg
+{
+	margin: 10px;
+}
